@@ -1,0 +1,1 @@
+game:GetService("Chat"):Chat(game.Players.LocalPlayer.Character:WaitForChild("Head"), "I'm noob poopy lol no hackrot apiiii")
